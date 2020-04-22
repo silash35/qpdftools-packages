@@ -6,7 +6,7 @@ Section: doc
 Homepage: https://github.com/silash35/qpdftools
 Architecture: amd64
 Priority: optional
-Depends: ghostscript  (>=9.25), python-pip (>=9.0), libqt5core5a (>=5.9), libqt5gui5 (>=5.9), libqt5core5a (>=5.9), libqt5widgets5 (>=5.9), breeze-icon-theme (>= 5.40)
+Depends: ghostscript  (>=9.25), python3-pip (>=9.0), libqt5core5a (>=5.9), libqt5gui5 (>=5.9), libqt5core5a (>=5.9), libqt5widgets5 (>=5.9), breeze-icon-theme (>= 5.40)
 Description: Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
  Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
  Qpdf Tools makes possible for normal users to manage their PDFs.
