@@ -1,5 +1,5 @@
-Origin: silash35.github.io/debian
-Label: silash35.github.io/debian
+Origin: silash35.github.io/repository
+Label: silash35.github.io/repository
 Codename: stable
 Architectures: amd64
 Components: main

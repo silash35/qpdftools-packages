@@ -1,19 +1,19 @@
-Origin: silash35.github.io/debian
-Label: silash35.github.io/debian
+Origin: silash35.github.io/repository
+Label: silash35.github.io/repository
 Codename: stable
-Date: Mon, 27 Apr 2020 16:17:01 UTC
+Date: Mon, 27 Apr 2020 16:54:49 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
  69797e1e33ea6a56609ac83516784a81 893 main/binary-amd64/Packages
  8dfa3dc06307df8679f6120e616f965a 543 main/binary-amd64/Packages.gz
- 875e49857da6db6e52d7bfe4770bb974 136 main/binary-amd64/Release
+ 727cfd1f532b184620a77831d4644ebc 144 main/binary-amd64/Release
 SHA1:
  e76d13b155a5202212239ed2fd47523182548019 893 main/binary-amd64/Packages
  2f77a987caca1d6354d99e888f688ef46bf296ba 543 main/binary-amd64/Packages.gz
- 467c585ffb15ed22b7d844679b92e7a82e2393fd 136 main/binary-amd64/Release
+ 637a48a55a18ae89cc3df117c2184e8b72ead22a 144 main/binary-amd64/Release
 SHA256:
  16abf87d6d3da350fb717ee4de9873dd035f7f16bdfa7f85a03bf7f078752d00 893 main/binary-amd64/Packages
  f532f377fbb1f5e783583db9c3e5e133cc4e340992295d909d6472f3227225d2 543 main/binary-amd64/Packages.gz
- 6e6cf6ca9c2a0032c7e34866be9d40f9ac6faec89d81297e75f39b7ef8e05368 136 main/binary-amd64/Release
+ e0c01370d1a3314028c6d6e36ceb805a1515a030b2acd3d4f2ca2b32cc17d714 144 main/binary-amd64/Release

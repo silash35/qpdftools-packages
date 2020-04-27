@@ -1,5 +1,5 @@
 Component: main
-Origin: silash35.github.io/debian
-Label: silash35.github.io/debian
+Origin: silash35.github.io/repository
+Label: silash35.github.io/repository
 Architecture: amd64
 Description: Personal repository
