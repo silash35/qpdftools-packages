@@ -4,3 +4,4 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Personal repository
+SignWith: 9021EE6A49ADF0AE4A36580CF0319B6C3DC8906E

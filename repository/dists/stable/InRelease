@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: silash35.github.io/repository
 Label: silash35.github.io/repository
 Codename: stable
@@ -17,3 +20,17 @@ SHA256:
  16abf87d6d3da350fb717ee4de9873dd035f7f16bdfa7f85a03bf7f078752d00 893 main/binary-amd64/Packages
  f532f377fbb1f5e783583db9c3e5e133cc4e340992295d909d6472f3227225d2 543 main/binary-amd64/Packages.gz
  e0c01370d1a3314028c6d6e36ceb805a1515a030b2acd3d4f2ca2b32cc17d714 144 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEkCHuakmt8K5KNlgM8DGbbD3IkG4FAl6nEOIACgkQ8DGbbD3I
+kG5WEAv/RMQR5f/GUJzRvRSmfObebrULbtgXrR/VazpgrAGpr+aJ2M9+QwI/gWUZ
+AmJMONNQtvAj/l2vA93/GsTwLINOXaFhBQseYMWgCsAzHev72j9LBRB6Z39j5+eW
+OTPP6TQdvk0o+wnAm7hjDx8Sa/46bYNMM90ngsA7bdMz63KThADvFhs4LJAkRSvk
+0jOLVyQGVVIGq9zeNWn5EqxCPJhmsoIAVyHmbUvZnbfsTX37o5Rbycakzhvqm2AD
+9BIPVHU2sQeDALl3ABUC1vkw3kKz9KQ6XxRvlvxKdSoV4MtvIB8GNjKk80LfmA1j
+1b60Fzg2aES/l2yrLnMXsNL+Gb+Ur7cN4qvsEHFcihn/E88UbdAEFG7Jsn4Bf1gt
+tTHoIrWW6jCd6Hgrx7vyRPBhlhFzZFdojoye4motRfMB5ER1al6yPYwDR7CSaWVs
+YTrThn6bakNWQteQz8GgyOgZt7EVTDFzkDwgyWlUVXorM3aJ3hMkSLnfgpJcJrtI
+ORasUH6P
+=//n/
+-----END PGP SIGNATURE-----
