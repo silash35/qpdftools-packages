@@ -1,0 +1,19 @@
+Package: qpdftools
+Version: 1.1
+Maintainer: Silas Henrique <silash35@gmail.com>
+Homepage: https://github.com/silash35/qpdftools
+Architecture: amd64
+Depends: ghostscript  (>=9.25), python3-pip (>=9.0), libqt5core5a (>=5.9), libqt5gui5 (>=5.9), libqt5core5a (>=5.9), libqt5widgets5 (>=5.9), breeze-icon-theme (>= 5.40)
+Priority: extra
+Section: doc
+Filename: pool/main/q/qpdftools/qpdftools_1.1_amd64.deb
+Size: 31448
+SHA256: 81764540a26f29002ab14e6dfc18fb8dd155a2bbd2a32786dea67229950fc3a6
+SHA1: 5c73e1f8b23e90b45c6e69d5c592329d3ae48a70
+MD5sum: 4a50e68f900832d2c3dd85aedcd60a30
+Description: Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
+ Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
+ Qpdf Tools makes possible for normal users to manage their PDFs.
+ .
+ With Qpdf Tools, you can easily compress, split, merge and even rotate your pdf documents.
+

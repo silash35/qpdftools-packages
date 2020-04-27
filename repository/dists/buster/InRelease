@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: qpdftools
+Label: qpdftools
+Codename: buster
+Date: Mon, 27 Apr 2020 20:23:22 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 5edd75b01535744fd302a035df5a1365 893 main/binary-amd64/Packages
+ ab736d0d8ba676b0ad8785d056e5e0dd 542 main/binary-amd64/Packages.gz
+ bae7c8a50d9233606246b8f7b8d150ba 104 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-amd64/Packages.gz
+SHA1:
+ 89726274b7bbaaa2858adee8fd99025b5a4a5bed 893 main/binary-amd64/Packages
+ 9b241db5be346792cb8b2ad91e11c6e592407a29 542 main/binary-amd64/Packages.gz
+ de2615b408eb76ab2de3afe5c75aa59cff152a10 104 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-amd64/Packages.gz
+SHA256:
+ 847c5e34b6ce312cd53a96993be76929c061249de140cea4074d490b7140d8ab 893 main/binary-amd64/Packages
+ 869d14aad3b9b409b07e489375c78324e78ed9662f4296e7bc9d4fb63545f344 542 main/binary-amd64/Packages.gz
+ 16498591cbff99172d395b667e4f1ad657c50c21c7cf80451fccbbed3b7d6d49 104 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE53pqyEtnncrO2ackuLpgzpiRbO0FAl6nPzoACgkQuLpgzpiR
+bO3JlAv8C3vijnSCN2BlabGFOkWSDyWE2Pm9X2+G/Lgz181cbbpY3lIJ+UbHEBPm
+i9+NtKCrUgIVeSoYz31jS4OHtExqLzTS9okZXqJK0I+SrgTuL+W9cqoD6ftbQf6J
+gxca3oJgEazA7wgaIFrRJndiFLxoPB8D4oCXtUNMjx4EIOVFQR8+O/Nb2AuciiNd
+AqfJe/V+ui0LBXyCZTi4v5glKbaXppF94VxtljrFYMVgzSa5pd099UGPajQkony6
+cUKkFVYFiwVETXag+8qGeAVYjOegSLYNjVB6ZvNSIExr4+eFYWjgItAENnrj9zn5
+xAKJIkUMRWEr59EzFshOfhQotSRVmeds7tzcquEDQ0zJayNSvqdeSTo8Xdm8pTop
+mEZ4heUbIxy8WSMO7mlOSsQ+Eh2knURtvWjksDI9Atlq5JZxN6I+kvUN1/C4MGF0
+ym30rUmWCqsHYo4qtfnIUGAzrATZDqpxt8N1+19x9ddBpb0lQ75c4Du4J6yHwmcw
+KIQec3qA
+=KeW9
+-----END PGP SIGNATURE-----
