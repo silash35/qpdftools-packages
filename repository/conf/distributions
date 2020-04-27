@@ -1,51 +1,6 @@
 Origin: qpdftools
 Label: qpdftools
-Codename: bionic
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
-
-Origin: qpdftools
-Label: qpdftools
-Codename: xenial
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
-
-Origin: qpdftools
-Label: qpdftools
-Codename: eoan
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
-
-Origin: qpdftools
-Label: qpdftools
-Codename: focal
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
-
-Origin: qpdftools
-Label: qpdftools
-Codename: buster
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
-
-Origin: qpdftools
-Label: qpdftools
-Codename: sid
+Codename: stable
 Architectures: amd64
 Components: main
 UDebComponents: main

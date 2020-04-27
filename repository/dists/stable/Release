@@ -1,10 +1,7 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Origin: qpdftools
 Label: qpdftools
-Codename: xenial
-Date: Mon, 27 Apr 2020 20:22:50 UTC
+Codename: stable
+Date: Mon, 27 Apr 2020 20:33:23 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
@@ -26,17 +23,3 @@ SHA256:
  16498591cbff99172d395b667e4f1ad657c50c21c7cf80451fccbbed3b7d6d49 104 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-amd64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-amd64/Packages.gz
------BEGIN PGP SIGNATURE-----
-
-iQGzBAEBCgAdFiEE53pqyEtnncrO2ackuLpgzpiRbO0FAl6nPxoACgkQuLpgzpiR
-bO0xCwv+P+AKt1T0LFn/XPIJyUlGZSCEH5Waxw2tV377qUJ5DSQSIyOFNjKf8GgO
-Hg/rufb6zST0gACOG1mR8nGv9YcMs6vHaLdzmZaxN3J5NTElR7gYil9ZTLc5eR2k
-b2K/3CKLZF2sJliso4krkdKUE+RYLfAzGNYSrEP2XZeKu8h6LFUQKOiEhVjlJ2N9
-y0aeycVGMczJLbeLa8PRiQ7jz6Jvaba83YaiGw4hNL542XmsIWPvGt9/HRsSoowL
-zP1xjDUNjvgPlvx4GbYZanQS3zg8jSrxq1sp342F1y6CXxU9nB8QWdQ5j3RfcsMe
-5LmMUjIqOgjGD9JKdt4bHKlbLB2RBEhsvAvzMVXG4DMeLOQokLixb11vDltSnZ+N
-+ItzU5gWewJ3+oVncQ+dz4VI9g1rI8uHsp9ieRj5xIcsXXQgj0UGPSSULIJYE82l
-rrt60AcrKVbm1It5qllWKaDNgf/IbbBO8la8ryzR3Kf6RZ+jdM0oA4mN6deBizAg
-rj/CghZz
-=LIDW
------END PGP SIGNATURE-----

@@ -3,8 +3,8 @@ Hash: SHA512
 
 Origin: qpdftools
 Label: qpdftools
-Codename: sid
-Date: Mon, 27 Apr 2020 20:23:15 UTC
+Codename: stable
+Date: Mon, 27 Apr 2020 20:33:23 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
@@ -28,15 +28,15 @@ SHA256:
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE53pqyEtnncrO2ackuLpgzpiRbO0FAl6nPzMACgkQuLpgzpiR
-bO2VNQv/ZRBL31ASs03jw8KWs9NoPPtaveWjdwuwmYMsDYqKr8yzPzeptqPb/ZR8
-BRVjA2mThSfnqPRqLxABn120qTB2DiPHXjF+bn40uh2BSyBrl1EI4fFZammCJ9dq
-m93eDY/TUO16aySAo2fDep2KugnJnW3XpC+BVONxP1Za4ytfJVxn/d1WhOM2PG2h
-tQ5Ytg0nN86BYEcYpa0oulI8uE+K9SCSz3jRSAqw2UNXJcAOgGqbjKNfnjbEFCqT
-jDFFCRibZxhc3HXM0Ce2JQ1ate6pbVZhOHG630Kxf2Tu3GMMzkYHlox6/CEDxjDd
-GXQtgfkm04TRa2qjsXOxiifoAoi5z/ArJYceQ2QkUwJbMXWUWOhSIr5l9vm19n5N
-BQb5IQGsr7QVbRsX/vdU/0D7iZZOVMTNvvRbzI6rsSFJy9x0VSvqj34jicym9IO0
-tSEdl7qnletXQKnYFuSHd5op0IobuT3457wubx2kkDAYiRBrSmyKghDF/a14Cxlk
-cVMecKHC
-=WirL
+iQGzBAEBCgAdFiEE53pqyEtnncrO2ackuLpgzpiRbO0FAl6nQZoACgkQuLpgzpiR
+bO1nrAwAp/arwIA+NoZ4vXJZTu8q0C5jDc5sMfEm0vxxy7TYiRsXUsTWdnBqk4kL
+1JwNB+ErvT530Xm04AozzXcGlP2TlN3y1aHfJwDdrju6y83dTChn0shOjSQC3DhO
+DhxsjLfU9kuyi5+KSz4Xu2whBJhWIZ/cPpw/NZM0DwsZRIA73HRrVl7nRjw6VSGB
+yAR/M4PDxvklpul5F7RFFQTrQFn2wjTU+x4qKplSn4ts0ZX0VwPDpyie8qSRjFii
+Dil2uQT33IqDoK0B0nOMrH2zGEg8jemPgOjF9mF56W4Kc+47HaZILI3bSVmmECZa
+i4caziTNiEf+0VW2Q6DFqBXE5G2lFh7LrJMXgG7flZifTfUGnO4fjXtaoF8A37lA
+tfuY7mYYP7z3X+OF+Sjw92sczo9jfaPw+ebillwdMudweSgDyYaFkOSL28e4jXc/
+n9w4NrfelarZIy8dcX6GW1+g4mHpQ+hMouhhWAxmQvekw0Y7Zf33POYogHfCwj9M
+LrdZ1a6N
+=siyr
 -----END PGP SIGNATURE-----
