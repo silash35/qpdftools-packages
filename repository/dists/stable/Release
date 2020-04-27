@@ -1,7 +1,7 @@
 Origin: silash35.github.io/debian
 Label: silash35.github.io/debian
-Codename: focal
-Date: Mon, 27 Apr 2020 15:59:31 UTC
+Codename: stable
+Date: Mon, 27 Apr 2020 16:17:01 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository

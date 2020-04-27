@@ -1,6 +1,6 @@
 Origin: silash35.github.io/debian
 Label: silash35.github.io/debian
-Codename: focal
+Codename: stable
 Architectures: amd64
 Components: main
 Description: Personal repository
