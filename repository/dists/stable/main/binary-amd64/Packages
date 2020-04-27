@@ -7,10 +7,10 @@ Depends: ghostscript  (>=9.25), python3-pip (>=9.0), libqt5core5a (>=5.9), libqt
 Priority: extra
 Section: doc
 Filename: pool/main/q/qpdftools/qpdftools_1.1_amd64.deb
-Size: 31872
-SHA256: bcdea96de25803413b47f82fc3e7433995756bc0860e476ba1678bb853499ccc
-SHA1: 087dfbf017378f4c7f12c5bc195529ec73e7cf28
-MD5sum: 71e7182aa72b28fb58b6db3b23b1d4f4
+Size: 31844
+SHA256: 9cad6fb821e691ef7c5abea681092d360a16eda10309658db51f8156a990c6e2
+SHA1: f1432faa14c997c0190981c8c5bda584236723af
+MD5sum: 95280aaa72d41ff188bc5b6545068278
 Description: Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
  Qpdf Tools is an easy-to-use Qt interface for Ghostscript and Stapler.
  Qpdf Tools makes possible for normal users to manage their PDFs.
