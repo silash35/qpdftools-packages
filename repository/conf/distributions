@@ -1,8 +1,0 @@
-Origin: qpdftools
-Label: qpdftools
-Codename: stable
-Architectures: amd64
-Components: main
-UDebComponents: main
-Description: Personal repository
-SignWith: yes
