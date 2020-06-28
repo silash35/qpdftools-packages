@@ -1,7 +1,0 @@
-#!/bin/sh
-
-wget -qO - https://silash35.gitlab.io/PUBLIC.KEY | sudo apt-key add -
-sudo pip uninstall -y stapler
-sudo pip3 install stapler
-
-exit 0
