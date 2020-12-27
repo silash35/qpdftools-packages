@@ -1,5 +1,5 @@
 #!/bin/sh
-# postrm script for qpdftools-1.5
+# postrm script for qpdftools-1.6
 #
 # see: dh_installdeb(1)
 
